@@ -1,2 +1,0 @@
-# Experiments
-Setting up Git
